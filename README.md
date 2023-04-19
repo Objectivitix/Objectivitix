@@ -1,7 +1,7 @@
 - 👋 Hey, I’m @Objectivitix!
 - 👀 Programming is very poggers
-- 🌱 Currently exploring: basic Java, Python concurrency (a real pain), web development
-- 📫 You can reach me by my Discord, or by sending an email to `itsallobjects@gmail.com`.
+- 🌱 Currently exploring: web development
+- 📫 You can reach me by my Discord: objx#9891
 - *~~Expert in the field of messing up Git~~*
 
 <!---
